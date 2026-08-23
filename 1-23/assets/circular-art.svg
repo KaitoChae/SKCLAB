@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+<rect width="1200" height="900" fill="#ec6e45"/>
+<g transform="translate(600 450)" fill="none" stroke="#082a3e" stroke-width="10">
+<circle r="275"/><circle r="190" stroke-dasharray="22 18"/><circle r="105"/>
+<path d="M0-330v110M0 220v110M-330 0h110M220 0h110"/>
+</g>
+<g fill="#082a3e"><circle cx="600" cy="450" r="42"/><circle cx="600" cy="175" r="26"/><circle cx="875" cy="450" r="26"/><circle cx="600" cy="725" r="26"/><circle cx="325" cy="450" r="26"/></g>
+<g font-family="Arial" font-size="34" font-weight="700" fill="#082a3e" text-anchor="middle"><text x="600" y="105">WASTE</text><text x="1020" y="462">METALS</text><text x="600" y="835">VALUE</text><text x="180" y="462">MICROBES</text></g>
+</svg>
