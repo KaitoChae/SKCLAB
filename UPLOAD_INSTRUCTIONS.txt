@@ -1,9 +1,0 @@
-Labskchaerun V14 — Root upload
-
-1. Open repository: KaitoChae/Labskchaerun
-2. Upload the CONTENTS of this folder directly to the repository root.
-3. index.html must be visible directly in the repository root.
-4. GitHub Pages: Settings > Pages > Deploy from a branch > main > /(root)
-5. The hero biomining animation is assets/biomining-hero-once.gif and is intentionally one-shot (no loop).
-6. Publication cards/lists display author names automatically when the updater/source provides them.
-7. Do not upload the ZIP itself; extract it first.
