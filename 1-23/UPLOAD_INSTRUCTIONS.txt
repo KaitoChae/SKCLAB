@@ -1,0 +1,15 @@
+Labskchaerun V29 — Root upload
+
+1. Open repository: KaitoChae/Labskchaerun
+2. Upload the CONTENTS of this folder directly to the repository root.
+3. index.html must be visible directly in the repository root.
+4. GitHub Pages: Settings > Pages > Deploy from a branch > main > /(root)
+5. Put WORKFLOW_TO_PASTE_IN_GITHUB_ACTIONS.yml at .github/workflows/update-research-data.yml to enable automatic updates.
+6. The workflow refreshes publication and citation data, SCImago quartiles/SJR, verified Impact Factors, and the official ITB research-project list every six hours.
+7. The public Research Projects section uses the 11 projects from Prof. Siti's official ITB profile. Member profile pop-ups show the individual research titles supplied in the laboratory Word file.
+8. Research titles change automatically across all 14 website languages.
+9. Member portraits stay close to their original size inside profile pop-ups to avoid blurry enlargement.
+10. Publication cards/lists display author names automatically when the updater/source provides them.
+11. Do not upload the ZIP itself; extract it first.
+12. Publication search matches research/publication titles only (including available translated titles), not journal names.
+13. If your institution has a licensed Clarivate JCR JSON feed, add its URL as the JCR_JSON_URL repository secret; otherwise the site uses publisher-verified public IF values and clearly marks unavailable values.

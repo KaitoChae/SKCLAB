@@ -1,0 +1,18 @@
+window.LAB_RESEARCH_PROJECT_DATA = {
+  source: "Official ITB staff profile",
+  source_url: "https://metallurgy.itb.ac.id/staff-akademik-siti-khodijah/",
+  last_updated: "2026-08-23T00:00:00Z",
+  items: [
+    { id: "official-01", start: "2009-10", year: 2009, title: "Biogeochemical characterization of bioleaching bacteria isolated from sulfide and laterite mineral ores to develop environmentally friendly and economical biomining in Indonesia" },
+    { id: "official-02", start: "2009-10", year: 2009, title: "Biogeochemical characterization of arsenic (As)-resistant bacteria isolated from extremely acidic minerals to develop bioremediation" },
+    { id: "official-03", start: "2009-10", year: 2009, title: "Biogeochemical characterization of mercury (Hg)-resistant bacteria isolated from river sediments contaminated by mining waste to develop bioremediation" },
+    { id: "official-04", start: "2010-03", year: 2010, title: "Biomineralogical characterization of iron-oxidizing, sulfate-reducing, and biofilm-producing bacteria for microbiologically influenced corrosion (MIC) or biocorrosion" },
+    { id: "official-05", start: "2009-10", year: 2009, title: "Biogeochemical characterization of hexavalent chromium [Cr(VI)]-resistant bacteria isolated from Cr-polluted saline-sodic agricultural soils to develop bioremediation" },
+    { id: "official-06", start: "2011", year: 2011, title: "Characterization of polyethylene-degrading bacteria and fungi for plastic biodegradation" },
+    { id: "official-07", start: "2009", year: 2009, title: "Biohydrometallurgy of nickel laterite" },
+    { id: "official-08", start: "2011", year: 2011, title: "Biosurfactant-producing bacteria for biohydrometallurgy, biocorrosion, biodesulfurization, and microbial enhanced oil recovery (MEOR)" },
+    { id: "official-09", start: "2015", year: 2015, title: "Bioflotation of sulfide and silicate minerals" },
+    { id: "official-10", start: "2014", year: 2014, title: "Biohydrometallurgy of copper minerals" },
+    { id: "official-11", start: "2014", year: 2014, title: "Biohydrometallurgy of sulfide-bearing carbonaceous refractory gold ores" }
+  ]
+};

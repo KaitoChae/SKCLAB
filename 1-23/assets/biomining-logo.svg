@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" fill="none">
+  <defs>
+    <clipPath id="c"><circle cx="120" cy="120" r="104"/></clipPath>
+  </defs>
+  <circle cx="120" cy="120" r="106" fill="#0B2B3D" stroke="#fff" stroke-width="4"/>
+  <g clip-path="url(#c)">
+    <path d="M18 132C58 98 82 100 111 119c30 20 52 16 111-26v129H18V132Z" fill="#E46E45"/>
+    <path d="M17 120C62 82 88 87 118 106c31 19 56 11 106-23" stroke="#fff" stroke-width="4"/>
+  </g>
+  <!-- mineral crystal -->
+  <g stroke="#fff" stroke-width="4" stroke-linejoin="round">
+    <path d="M66 60l20-14 22 15-6 26-24 7-18-15 6-19Z"/>
+    <path d="M86 46l-8 48M66 60l36 27M108 61L60 79"/>
+  </g>
+  <!-- microbe -->
+  <g stroke="#fff" stroke-width="4" stroke-linecap="round">
+    <path d="M149 58c15-9 34 5 27 21-7 18-37 13-37-5 0-7 4-13 10-16Z"/>
+    <path d="M151 52l-5-10M168 53l6-9M179 66l12-2M177 82l10 7M158 92l-1 11M142 86l-9 7"/>
+    <circle cx="154" cy="70" r="2" fill="#fff"/><circle cx="166" cy="76" r="2" fill="#fff"/>
+  </g>
+  <!-- flask + droplet -->
+  <g stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M79 150v21l-18 29c-4 7 1 15 9 15h42c8 0 13-8 9-15l-18-29v-21"/>
+    <path d="M72 150h38M71 192c17-7 31 8 47 0"/>
+    <path d="M155 157c0 10-8 17-17 17s-17-7-17-17c0-11 17-29 17-29s17 18 17 29Z"/>
+  </g>
+  <!-- metal dots -->
+  <g fill="#fff"><circle cx="177" cy="181" r="5"/><circle cx="194" cy="166" r="4"/><circle cx="193" cy="190" r="3"/></g>
+</svg>
